@@ -7,7 +7,7 @@ L2Dwidget.init({
     position: 'right',
     width: 150,
     height: 300,
-    hOffset: -120
+    hOffset: -20
   },
   mobile: { show: true },
   react: { opacity: 0.7 }

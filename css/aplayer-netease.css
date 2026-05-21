@@ -1,0 +1,102 @@
+/* 
+
+*/
+.aplayer.aplayer-fixed {
+  background: #1a1a2e !important;
+  border-top: 2px solid #d43c33 !important;
+  z-index: 9999 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-body {
+  background: #1a1a2e !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info {
+  background: #1a1a2e !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-music {
+  color: #fff !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-music .aplayer-title {
+  color: #fff !important;
+  font-weight: 600 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-music .aplayer-author {
+  color: #aaa !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-control .aplayer-time {
+  color: #ccc !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-control .aplayer-time .aplayer-icon path {
+  fill: #fff !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-control .aplayer-bar-wrap .aplayer-bar {
+  background: #333 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-control .aplayer-bar-wrap .aplayer-bar .aplayer-loaded {
+  background: #555 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-control .aplayer-bar-wrap .aplayer-bar .aplayer-played {
+  background: #d43c33 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info .aplayer-control .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb {
+  background: #d43c33 !important;
+  border: 2px solid #fff !important;
+  box-shadow: 0 0 8px rgba(212, 60, 51, 0.6) !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-list {
+  background: #1a1a2e !important;
+  border: 1px solid #333 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-list ol li {
+  color: #ccc !important;
+  border-top: 1px solid #2a2a3e !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-list ol li:hover {
+  background: #2a2a3e !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-list ol li.aplayer-list-light {
+  background: #2a2a3e !important;
+  color: #d43c33 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-pic {
+  border-radius: 0 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-button {
+  border-color: #fff !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-button path {
+  fill: #fff !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-icon-order path {
+  fill: #aaa !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-icon-order.aplayer-fill path {
+  fill: #d43c33 !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-icon-loop path {
+  fill: #aaa !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-icon-loop.aplayer-fill path {
+  fill: #d43c33 !important;
+}

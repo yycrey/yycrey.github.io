@@ -9,7 +9,7 @@ if (!window.aplayerInstance) {
       container: document.getElementById('aplayer'),
       fixed: true,
       autoplay: true,
-      theme: '#ffa07a',
+      theme: '#d43c33',
       loop: 'all',
       order: 'random',
       preload: 'auto',
