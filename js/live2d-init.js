@@ -22,7 +22,7 @@ s.onload = function () {
     var el = document.getElementById('live2d-widget');
     if (el) {
       clearInterval(checkExist);
-      el.style.transform = 'translateX(-330px) translateY(-120px)';
+      el.style.transform = 'translateX(-330px) translateY(-60px)';
     }
   }, 200);
 };
