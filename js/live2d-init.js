@@ -11,7 +11,7 @@ s.onload = function () {
       position: 'right',
       width: 150,
       height: 300,
-      hOffset: -20,
+      hOffset: -350,
       vOffset: -80
     },
     mobile: { show: true },
