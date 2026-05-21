@@ -8,10 +8,10 @@ s.onload = function () {
     },
     display: {
       position: 'right',
-      width: 150,
-      height: 300,
+      width: 200,
+      height: 400,
       hOffset: -20,
-      vOffset: -80
+      vOffset: -100
     },
     mobile: { show: true },
     react: { opacity: 0.7 }
@@ -22,7 +22,7 @@ s.onload = function () {
     var el = document.getElementById('live2d-widget');
     if (el) {
       clearInterval(checkExist);
-      el.style.transform = 'translateX(-330px)';
+      el.style.transform = 'translateX(-330px) translateY(-120px)';
     }
   }, 200);
 };
