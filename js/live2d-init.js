@@ -4,10 +4,9 @@ L2Dwidget.init({
     jsonPath: 'https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json'
   },
   display: {
-    position: 'right',
+    position: 'bottom',
     width: 150,
-    height: 300,
-    hOffset: -20
+    height: 300
   },
   mobile: { show: true },
   react: { opacity: 0.7 }
